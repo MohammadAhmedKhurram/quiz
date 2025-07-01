@@ -1,6 +1,6 @@
 {
-  "name": "quiz_system",
-  "version": "1.0.0",
+  "name": "quiz_maestro",
+  "version": "1.0.1",
   "description": "",
   "main": "main.js",
   "type": "module",
@@ -11,6 +11,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@types/inquirer": "^9.0.7"
+    "@types/inquirer": "^9.0.7",
+    "quiz_maestro": "^1.0.0"
   }
 }
